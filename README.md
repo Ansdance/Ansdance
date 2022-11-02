@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m working on Java, PHP
+- 🔭 I’m working on Java, PHP, Swift
 - 🌱 I’m currently learning 
 - 🤔 I’m looking for mentor. If you can point me at some great sources, just hit me up!
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/ansar-dauletbayev-8b6630a3/) 
