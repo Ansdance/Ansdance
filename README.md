@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m working on Java, Swift ( but I also know PHP and Python) 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning (I m middle)
 - 🤔 I’m looking for mentor. If you can point me at some great sources, just hit me up!
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/ansar-dauletbayev-8b6630a3/) 
 - 😄 Pronouns: He/Him
